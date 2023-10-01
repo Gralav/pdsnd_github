@@ -15,4 +15,4 @@ cp new_york_city.csv ~/pdsnd_github/
 cp washington.csv ~/pdsnd_github/
 
 ### Credits
-Udacity course contents were exclusively used to complete the assignment
+Udacity course contents were exclusively used to complete the assignment as they were adequate.
