@@ -3,10 +3,10 @@
 October 1st 2023
 
 ### Project Title
-Udacity project;Exploration of US bikeshare data  
+Udacity project; Exploration of US bike-share data  
 
 ### Description
-Python language is used to understand U.S bikeshare data through calculation of statistics and building of an interactive environment where a user chooses
+Python language is used to understand U.S bike-share data through the calculation of statistics and the building of an interactive environment where a user chooses
 the data and filter for a dataset to analyze
 
 ### Files used
